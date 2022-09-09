@@ -215,7 +215,7 @@ export class Options {
                 icon: '<svg><use xlink:href="#vditor-icon-link"></use></svg>',
                 name: "link",
                 prefix: "[",
-                suffix: "](https://)",
+                suffix: "]()",
                 tipPosition: "n",
             },
             {
